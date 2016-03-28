@@ -13,6 +13,7 @@ msgstr ""
 "Language-Team: ENGLISH <jjj@buddypress.org>\n"
 "X-Generator: grunt-wp-i18n 0.5.4\n"
 
+Change 
 #: bp-activity/bp-activity-actions.php:174
 msgid "Activity deleted successfully"
 msgstr ""
