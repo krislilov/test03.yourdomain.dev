@@ -23,7 +23,7 @@
 
 // Exit if accessed directly
 defined( 'ABSPATH' ) || exit;
-
+/*Change branch4*/
 /** Constants *****************************************************************/
 
 if ( !class_exists( 'BuddyPress' ) ) :
